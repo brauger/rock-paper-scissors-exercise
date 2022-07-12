@@ -1,1 +1,1 @@
-# ock-paper-scissors-exercise
+# rock-paper-scissors-exercise
