@@ -4,8 +4,8 @@ print("Welcome 'Player One' to the best game you will ever play!")
 
 user = input("Choose rock, paper or scissors: ")
 
-if user in ["rock", "paper", "scissors"]:
-    print("Player One is:" + user)
+if user.lower() in ["rock", "paper", "scissors"]:
+    print("Player One is:" + user) 
 else:
     print("Invalid input")
     exit()
