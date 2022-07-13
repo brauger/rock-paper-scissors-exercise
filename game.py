@@ -21,7 +21,6 @@ computer = random.choice(possible)
 print("The computer is: " + computer)
 
 
-
 if user == computer:
     print("It's a tie!")
 elif user == "rock":
