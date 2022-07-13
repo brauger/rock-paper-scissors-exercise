@@ -41,3 +41,5 @@ conda --version
 
 ##### You will then be able to run the Rock, Paper, Scissors program by following the simple set of instructions to follow.
 
+##### There are no bugs in the program as of 07/13/2022.
+
