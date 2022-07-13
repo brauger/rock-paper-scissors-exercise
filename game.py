@@ -1,3 +1,5 @@
+import random
+
 print("Rock, Paper, Scissors, Shoot!")
 
 print("Welcome 'Player One' to the best game you will ever play!")
@@ -13,7 +15,6 @@ else:
     exit()
 
 
-import random
 possible = ["rock", "paper", "scissors"]
 computer = random.choice(possible)
 
