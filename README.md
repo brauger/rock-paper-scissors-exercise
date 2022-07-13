@@ -39,6 +39,12 @@ conda --version
 
 ##### If it is not found, **[install Anaconda](https://www.anaconda.com/products/distribution)** before proceeding with setting up your environment.
 
+##### When successfully in the program environment, use the following code in the command-line to demonstrate your ability to run the Python script:
+
+```
+python game.py
+```
+
 ##### You will then be able to run the Rock, Paper, Scissors program by following the simple set of instructions to follow.
 
 ##### There are no bugs in the program as of 07/13/2022.
