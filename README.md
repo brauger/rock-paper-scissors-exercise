@@ -45,7 +45,8 @@ conda --version
 python game.py
 ```
 
-##### You will then be able to run the Rock, Paper, Scissors program by following the simple set of instructions to follow.
+##### You will then be able to run the Rock, Paper, Scissors program by following the simple set of instructions.
 
 ##### There are no bugs in the program as of 07/13/2022.
 
+## Have fun!
