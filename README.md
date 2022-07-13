@@ -12,7 +12,7 @@
 
 1. Navigate to the code dropdown menu on the repository in GitHub
 2. Select "Open with GitHub Desktop"
-3. Clone to an easy to find location like your desktop
+3. Clone to an easy to find location like your local desktop
 
 ##### From the command-line, navigate to the local repository by using code like the following:
 
@@ -24,12 +24,20 @@ cd ~/Desktop/rock-paper-scissors-exercise
 
 # Setting Up Your Environment
 
-##### Create and activate an Anaconda environment for the program using code similar to the following:
+##### Create and activate an Anaconda environment for the program using the following code:
 
 ```
 conda create -n my-game-env python=3.8 # (first time only)
 conda activate my-game-env
 ```
+
+##### If you are uncertain if Anaconda is installed, use the following in your command-line:
+
+```
+conda --version
+```
+
+##### If it is not found, **[install Anaconda](https://www.anaconda.com/products/distribution)** before proceeding with setting up your environment.
 
 ##### You will then be able to run the Rock, Paper, Scissors program by following the simple set of instructions to follow.
 
